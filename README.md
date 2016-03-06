@@ -1,8 +1,6 @@
 
 # [ThunderFlurry](http://github.com/thunderflurry/thunderflurry) ![Github version](https://img.shields.io/github/release/thunderflurry/thunderflurry.svg?label=Current%20Version)
 
-##### Defunctr is a [Modernizr](http://www.modernizr.com) extension JavaScript library that detects browsers using feature detection for use in HTML5 and CSS3.
-
 ThunderFlurry is a nodejs based web server providing management of motion picture productions. It is currently under development and has not been released.
 
 ### Browser Support
