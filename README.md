@@ -17,8 +17,8 @@ We support most browsers, which is the point of using our module in the first pl
 ### Building the code
 
 #### Required Tools
-- Node
-- NPM
+- Node (tested on 0.10, 0.12, 4.2, 5.7 on Windows, Mac OS, and Debian)
+- NPM (prefer 2+)
 - Grunt
 
 #### Optional Tools
@@ -29,6 +29,9 @@ check out the source code
 
 #create your project directory
 $ mkdir thunderflurry
+
+#change to the directory you made
+$ cd thunderflurry
 
 #clone this repository
 $ git clone https://github.com/thunderflurry/thunderflurry.git .
@@ -88,6 +91,70 @@ There are currently three branches in the git repository:
 |`gh-pages`| Git hub pages storage. |
 |`cloud`| Branch of what is running in the cloud which may have modifications not part of the project. |
 |`spike/*`| Experiments that are being run. |
+
+### Contributing
+
+The following flow is used to contribute to this project. No person has direct access to push code.
+
+Your first step is to fork the code to your github account. Then clone your fork.
+
+``` bash
+
+# create your project directory
+$ mkdir thunderflurry
+
+# change to the directory you made
+$ cd thunderflurry
+
+# clone this repository
+$ git clone https://github.com/<YOUR GITHUB NAME>/thunderflurry.git .
+
+# add us as the upstream remote server
+$ git remote add upstream https://github.com/thunderflurry/thunderflurry.git
+
+# try to never make changes in your master, so lets create a branch to work in
+$ git checkout -b <working branch name>
+
+# now make the changes you want
+# when you are ready to send them back flatten your checkins to a new branch for us
+# make sure we are on the master branch
+$ git checkout master
+
+# let's make sure we have the latest code updates
+$ git merge upstream/master
+
+# we are going to create a pull request branch from this updated code
+$ git checkout -b <push branch name>
+
+# now we pull your new code in as a single commit
+$ git merge --squash <working branch name>
+
+# if there are errors they need to be fixed and checked in.
+# make sure everything compiles and runs
+$ npm install
+$ npm build
+$ npm test
+
+# if all works then lets push the code to github
+$ git push origin <push branch name>
+
+# visit your github account fork and there will be a green button to make a pull request.
+# click it and your done!
+
+# to remove the branches
+$ git checkout master
+$ git branch -D <working branch name>
+$ git branch -D <push branch name>
+
+# once we have accepted your pr you can update your system.
+$ git checkout master
+$ git merge upstream/master
+$ git push origin master
+
+# now your changes have come back merged with ours.
+
+```
+
 
 ### Team Members
 
