@@ -83,18 +83,46 @@ There are currently three branches in the git repository:
 | Branch/Tag | Purpose |
 | ------- | ---------------------------|
 |`master`|  The `master` branch is where the daily builds are made from.  |
-
+|`greenkeeper-*`| Automated branch created by [greenkeeper](http://greenkeeper.io) to tell us to update a dependency in the project |
+|`qa`| Branch specific to qa testing. |
+|`gh-pages`| Git hub pages storage. |
+|`cloud`| Branch of what is running in the cloud which may have modifications not part of the project. |
+|`spike/*`| Experiments that are being run. |
 
 ### Team Members
 
-| Branch | Purpose |
+| Contributor | Details |
 | ------- | ---------------------------|
-|@cinecove|  Project sponsor and administrator |
-|@victoriafrench|  Program Manager on ThunderFlurry and original developer/creator.   |
+|@victoriafrench|  Program Manager on ThunderFlurry and original developer/creator. |
 
 ### Special Thanks
 
 We would like to give a shout-out to **JetBrains** for providing [WebStorm](https://www.jetbrains.com/webstorm/) licenses to our project! Big Huge Hugs!
 
+### Platinum Sponsors
+
+| Twitter Handle | Sponsor Name |
+| ------- | ---------------------------|
+|@cinecove|  Cinecove |
+
+### Gold Sponsors
+
+| Twitter Handle | Sponsor Name |
+| ------- | ---------------------------|
+
+
+### Bronze Sponsors
+
+| Twitter Handle | Sponsor Name |
+| ------- | ---------------------------|
+
+
+### Silver Sponsors
+
+| Twitter Handle | Sponsor Name |
+| ------- | ---------------------------|
+
+
 [![Analytics](https://ga-beacon.appspot.com/UA-58610544-5/thunderflurry/readme.md)](https://github.com/igrigorik/ga-beacon)
+
 
