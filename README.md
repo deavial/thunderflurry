@@ -3,6 +3,12 @@
 
 ThunderFlurry is a nodejs based web server providing management of motion picture productions. It is currently under development and has not been released.
 
+### Collaborate With Us
+
+We use Slack for communications. Your input on this project is extremely valuable to us, so please join the conversation today!
+
+[![Slack Invites](https://img.shields.io/badge/%23Slack-Collaborate%20With%20Us-blue.svg)](https://thunderflurry.signup.team/)
+
 ### Browser Support
 
 We support most browsers, which is the point of using our module in the first place :-)
