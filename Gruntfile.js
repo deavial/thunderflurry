@@ -49,4 +49,7 @@ module.exports = function (grunt) {
 		'contributors:master'
 	]);
 
+	grunt.registerTask('default', [
+		'build'
+	]);
 };
