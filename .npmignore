@@ -1,0 +1,13 @@
+/gh-pages
+/node_modules
+/bower_components
+/nuget
+/release
+/dist
+.jshintignore
+.jshintrc
+/.editorconfig
+/.gitattributes
+/.jscs.json
+/.mailmap
+/.travis.yml
