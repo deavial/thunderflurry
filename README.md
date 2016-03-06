@@ -61,7 +61,7 @@ $ npm run
 ThunderFlurry is licensed under the [MIT license](./LICENSE.md)
 
 
-### Project Dashboard [![Build Status](https://travis-ci.org/thunderflurry/thunderflurry.svg)](https://travis-ci.org/thunderflurry/thunderflurry)
+### Project Dashboard [![Build Status](https://travis-ci.org/ThunderFlurry/thunderflurry.svg)](https://travis-ci.org/ThunderFlurry/thunderflurry)
 
 You can see issues, pull requests, backlog items, etc. in the [OneGet Dashboard](https://waffle.io/thunderflurry/thunderflurry)
 
