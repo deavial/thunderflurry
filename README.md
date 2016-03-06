@@ -58,7 +58,7 @@ $ npm run
 
 ### License
 
-ThunderFlurry is licensed under the [MIT license](./LICENSE.md)
+ThunderFlurry is licensed under the [BSD-4 license](./LICENSE.md)
 
 
 ### Project Dashboard [![Build Status](https://travis-ci.org/ThunderFlurry/thunderflurry.svg)](https://travis-ci.org/ThunderFlurry/thunderflurry)
