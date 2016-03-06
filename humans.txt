@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Victoria French -- Creator -- @victoriafrench
+
+# THANKS
+
+    JetBrains - Thank your for the WebStorm licenses!
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Modernizr
+

@@ -1,0 +1,85 @@
+
+{
+  "name": "thunderflurry",
+  "title": "ThunderFlurry",
+  "description": "Web project management for motion picture productions.",
+  "version": "0.0.1-pre",
+  "main": "thunderflurry.js",
+  "homepage": "https://github.com/thunderflurry/thunderflurry",
+  "author": {
+    "name": "Cinecove Digital, LLC and other contributors",
+    "url": "https://github.com/thunderflurry/thunderflurry/blob/master/AUTHORS.txt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thunderflurry/thunderflurry.git"
+  },
+  "keywords": [
+    "thunderflurry",
+    "motion picture",
+    "movie",
+    "production",
+    "film",
+    "imdb",
+    "budgeting",
+    "budget",
+    "callsheet",
+    "call sheet",
+    "contracts",
+    "location",
+    "management"
+  ],
+  "bugs": {
+    "url": "https://github.com/thunderflurry/thunderflurry/issues"
+  },
+  "license": "MIT",
+  "licenseUrl": "https://github.com/thunderflurry/thunderflurry/blob/master/LICENSE.md",
+  "dependencies": {
+    "modernizr": "^3.0.0"
+  },
+  "devDependencies": {
+    "bower": "^1.7.7",
+    "grunt": "^0.4.5",
+    "grunt-banner": "^0.6.0",
+    "grunt-bower": "^0.21.0",
+    "grunt-bump": "^0.7.0",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-compass": "^1.1.0",
+    "grunt-contrib-compress": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.0",
+    "grunt-contrib-connect": "^1.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-csslint": "^0.5.0",
+    "grunt-contrib-cssmin": "^1.0.0",
+    "grunt-contrib-handlebars": "^0.11.0",
+    "grunt-contrib-htmlmin": "^1.0.0",
+    "grunt-contrib-imagemin": "^1.0.0",
+    "grunt-contrib-jade": "^0.15.0",
+    "grunt-contrib-jasmine": "^1.0.0",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-jst": "^0.6.0",
+    "grunt-contrib-nodeunit": "^1.0.0",
+    "grunt-contrib-qunit": "^1.0.1",
+    "grunt-contrib-requirejs": "^0.4.4",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-contrib-yuidoc": "^0.10.0",
+    "grunt-git": "^0.3.7",
+    "grunt-git-contributors": "^0.1.5",
+    "grunt-git-deploy": "^0.3.0",
+    "grunt-replace": "^0.11.0"
+  },
+  "scripts": {
+    "install": "npm run build",
+    "build": "grunt",
+    "run": "node thunderflurry"
+  },
+  "contributors": [
+    {
+      "name": "Victoria French",
+      "url": "https://twitter.com/victoriafrench"
+    }
+  ]
+}
