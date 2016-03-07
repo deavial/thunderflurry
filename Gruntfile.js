@@ -45,11 +45,29 @@ module.exports = function (grunt) {
 		push: false
 	});
 
+	grunt.loadNpmTasks('grunt-conventional-changelog');
+	grunt.config('conventionalChangelog', {
+		options: {
+        	changelogOpts: {
+          		preset: 'angular',
+          		outputUnreleased: true
+        	}
+      	},
+      	release: {
+        	src: 'CHANGELOG.md'
+      	}
+	});
+
 	grunt.registerTask('build', [
 		'contributors:master'
 	]);
 
 	grunt.registerTask('default', [
 		'build'
+	]);
+
+	grunt.registerTask('release', [
+		'build',
+		'conventionalChangelog'
 	]);
 };
