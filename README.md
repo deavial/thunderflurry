@@ -67,7 +67,7 @@ $ npm run
 
 ### License
 
-ThunderFlurry is licensed under the [BSD-4 license](./LICENSE.md)
+ThunderFlurry is licensed under the [BSD-3 license](./LICENSE.md)
 
 
 ### Project Dashboard [![Build Status](https://travis-ci.org/ThunderFlurry/thunderflurry.svg)](https://travis-ci.org/ThunderFlurry/thunderflurry) [![Build status](https://ci.appveyor.com/api/projects/status/1qntrvsgmtls9sc8?svg=true)](https://ci.appveyor.com/project/victoriafrench/thunderflurry)
@@ -99,6 +99,8 @@ There are currently three branches in the git repository:
 |`spike/*`| Experiments that are being run. |
 
 ### Contributing
+
+To push contributions to us, we require that all contributors [sign our Contributor License Agreement (CLA)](https://goo.gl/forms/QaGa75iQYe). All pull-requests are checked against the signature database before being accepted.
 
 The following flow is used to contribute to this project. No person has direct access to push code.
 

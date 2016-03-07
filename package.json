@@ -31,7 +31,7 @@
   "bugs": {
     "url": "https://github.com/thunderflurry/thunderflurry/issues"
   },
-  "license": "BSD-4-Clause",
+  "license": "BSD-3-Clause",
   "licenseUrl": "https://github.com/thunderflurry/thunderflurry/blob/master/LICENSE.md",
   "dependencies": {
     "modernizr": "^3.0.0"
