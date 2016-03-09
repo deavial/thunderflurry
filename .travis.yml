@@ -11,6 +11,9 @@ script:
   - npm build
 
 notifications:
+  slack: 
+    rooms:
+      - thunderflurry:1FIUTNPm9dDb9nPDh4fzVgPT#dev-travis
   email:
     - victoria.french@cinecove.com
 
