@@ -198,6 +198,6 @@ We would like to give a shout-out to **JetBrains** for providing [WebStorm](http
 | ------- | ---------------------------|
 
 
-[![Analytics](https://ga-beacon.appspot.com/UA-58610544-5/thunderflurry/readme.md)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-75301203-2/thunderflurry/readme.md)](https://github.com/igrigorik/ga-beacon)
 
 
