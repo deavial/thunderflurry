@@ -20,12 +20,16 @@ We support most browsers, which is the point of using our module in the first pl
 * Safari 3+
 * Opera 8+ (including Opera Next)
 
+This information may change before v0.4. Internet Explorer will most likely be bumped to version 9. TBD.
+
 ### Building the code
 
 #### Required Tools
-- Node (tested on 0.10, 0.12, 4.2, 5.7 on Windows, Mac OS, and Debian)
+- Node (tested on 4.4, and 5.8; on Windows, Mac OS, and Debian)
 - NPM (prefer 2+)
 - Grunt
+
+This list is currently in flux as the foundation is released.
 
 #### Optional Tools
 - [WebStorm](http://jetbrains.com/webstorm) (Project Editor)
