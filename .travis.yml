@@ -1,9 +1,9 @@
 language: node_js
 node_js:
-  - "5.7"
-  - "4.3"
-  - "0.12"
-  - "0.10"
+  - "5.8"
+  - "4.4"
+  #- "0.12" We will not be supporting 0.12 as Node retired it
+  #- "0.10" We will not be supporting 0.10 as Node retired it
 
 sudo: required
 
@@ -11,7 +11,7 @@ script:
   - npm build
 
 notifications:
-  slack: 
+  slack:
     rooms:
       - thunderflurry:1FIUTNPm9dDb9nPDh4fzVgPT#dev-travis
   email:
@@ -21,6 +21,6 @@ git:
   depth:
     10
 
-cache:
-  directories:
-    - node_modules
+#cache:
+#  directories:
+#    - node_modules
