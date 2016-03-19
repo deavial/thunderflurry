@@ -98,9 +98,9 @@ There are currently three branches in the git repository:
 |`cloud`| Branch of what is running in the cloud which may have modifications not part of the project. |
 |`spike/*`| Experiments that are being run. |
 
-### Contributing
+### Contributing [![CLA assistant](https://cla-assistant.io/readme/badge/ThunderFlurry/thunderflurry)](https://cla-assistant.io/ThunderFlurry/thunderflurry)
 
-To push contributions to us, we require that all contributors [sign our Contributor License Agreement (CLA)](https://goo.gl/forms/QaGa75iQYe). All pull-requests are checked against the signature database before being accepted.
+To push contributions to us, we require that all contributors [sign our Contributor License Agreement (CLA)](https://cla-assistant.io/ThunderFlurry/thunderflurry). All pull-requests are checked against the signature database before being accepted.
 
 The following flow is used to contribute to this project. No person has direct access to push code.
 
