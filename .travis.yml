@@ -8,7 +8,7 @@ node_js:
 sudo: required
 
 script:
-  - npm build
+  - npm run build
 
 notifications:
   slack:
