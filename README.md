@@ -13,19 +13,24 @@ We use Slack for communications. Your input on this project is extremely valuabl
 
 We support most browsers, which is the point of using our module in the first place :-)
 
-* Internet Explorer 8+
+* Internet Explorer 9+
 * Edge
 * Firefox 0.8+
 * Chrome 1+
 * Safari 3+
 * Opera 8+ (including Opera Next)
 
-This information may change before v0.4. Internet Explorer will most likely be bumped to version 9. TBD.
 
 ### Building the code
 
 #### Required Tools
-- Node (tested on 4.4, and 5.8; on Windows, Mac OS, and Debian)
+- Node
+    - Development requires Node 5.0+
+    - Building is tested with Node 5.8 on Windows, Mac OS, and Debian
+    - Compiled Server requires Node 4.2+ or 5.0+
+    - Compiled Server is tested with:
+        - Node 4.4/5.8 on Windows, Mac OS, Debian
+        - Node 4.2 on Amazon EBS with a EC2 micro installation
 - NPM (prefer 2+)
 - Grunt
 
