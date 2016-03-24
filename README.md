@@ -177,7 +177,7 @@ $ git push origin master
 
 | Contributor | Details |
 | ------- | ---------------------------|
-|@victoriafrench|  Program Manager on ThunderFlurry and original developer/creator. |
+|[![photo](https://avatars3.githubusercontent.com/u/763805?v=3&s=24) @victoriafrench](https://github.com/victoriafrench)|  Program Manager on ThunderFlurry and original developer/creator. |
 
 ### Special Thanks
 
