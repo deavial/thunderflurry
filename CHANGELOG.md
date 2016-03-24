@@ -12,11 +12,11 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - Readme to explain that the project must be compiled with Node 5, it will execute in Node 4
 - Travis compilation on CGP with Ubuntu
 - Dependencies
-    - graphiql: 0.6.3
-    - babel-polyfil: 6.7.2
+    - graphiql: 0.6.4
+    - babel-polyfil: 6.7.4
     - eventemitter3: 1.20
     - express-graphql: 0.4.10
-    - node-fetch: 1.4.0
+    - node-fetch: 1.4.1
     - normalize.css: 4.0.0
     - autoprefixer: 6.3.4
     - babel-jest: 9.0.3
@@ -24,11 +24,13 @@ This project adheres to [Semantic Versioning](http://semver.org/).
     - enzyme: 2.2.0
     - eslint: 2.4.0
     - eslint-plugin-react: 4.2.3
-    - git-repository: 0.1.3
+    - git-repository: 0.1.4
     - jest-cli: 0.9.2
     - postcss-loader: 0.8.2
     - stylelint: 5.1.0
     - gaze: 1.0.0
+    - eslint-config-airbnb: 6.2.0
+    - babel-preset-node5: 11.0.1
 
 ### Removed
 - Support for IE 8
