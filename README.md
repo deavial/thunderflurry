@@ -185,6 +185,9 @@ We would like to give a shout-out to **JetBrains** for providing [WebStorm](http
 
 [BrowserStack](http://browserstack.com) had provided us with a valuable testing account for this project. We greatly appreciate their support and hope you check them out!
 
+[![WebStorm](https://thunderflurry.github.io/images/sponsors/webstorm.png)](https://twitter.com/WebStormIDE)
+[![BrowserStack](https://thunderflurry.github.io/images/sponsors/browserstack.png)](https://twitter.com/browserstack)
+
 ### Platinum Sponsors
 
 [![Cinecove](https://thunderflurry.github.io/images/sponsors/cinecove.png)](https://twitter.com/cinecove)
