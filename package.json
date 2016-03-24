@@ -43,12 +43,14 @@
     "bluebird": "3.3.4",
     "body-parser": "1.15.0",
     "classnames": "2.2.3",
+    "connect": "^3.4.1",
     "cookie-parser": "1.4.1",
     "core-js": "^2.1.4",
     "eventemitter3": "1.2.0",
     "express": "4.13.4",
     "express-graphql": "0.4.10",
     "express-jwt": "3.3.0",
+    "express-subdomain": "^1.0.5",
     "fastclick": "1.0.6",
     "fbjs": "0.7.2",
     "front-matter": "2.0.6",
@@ -69,6 +71,7 @@
     "react-dom": "0.14.7",
     "react-routing": "0.0.7",
     "source-map-support": "0.4.0",
+    "vhost": "^3.0.2",
     "whatwg-fetch": "0.11.0"
   },
   "devDependencies": {
