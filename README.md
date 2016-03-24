@@ -187,26 +187,23 @@ We would like to give a shout-out to **JetBrains** for providing [WebStorm](http
 
 ### Platinum Sponsors
 
-| Twitter Handle | Sponsor Name |
-| ------- | ---------------------------|
-|@cinecove|  Cinecove |
+[![Cinecove](https://thunderflurry.github.io/images/sponsors/cinecove.png)](https://twitter.com/cinecove)
 
 ### Gold Sponsors
 
-| Twitter Handle | Sponsor Name |
-| ------- | ---------------------------|
+[![Devil Bunny Productions](https://thunderflurry.github.io/images/sponsors/devilbunnyproductions.png)](https://twitter.com/devilbunnyfilms)
+[![White Mouse Productions](https://thunderflurry.github.io/images/sponsors/whitemousepictures.jpeg)](https://twitter.com/whitemousefilms)
 
 
 ### Bronze Sponsors
 
-| Twitter Handle | Sponsor Name |
-| ------- | ---------------------------|
+[![Rabid Rabbit Entertainment](https://thunderflurry.github.io/images/sponsors/rabidrabbit.jpg)](https://www.facebook.com/RabidRabbitEntertainment/)
 
 
 ### Silver Sponsors
 
-| Twitter Handle | Sponsor Name |
-| ------- | ---------------------------|
+[![Fluffy D. Bunny](https://thunderflurry.github.io/images/sponsors/fluffydbunny.jpg)](https://twitter.com/fluffydbunny)
+[![Bill McCarthy](https://thunderflurry.github.io/images/sponsors/billmccarthy.jpg)](https://twitter.com/Dig_Bill)
 
 
 [![Analytics](https://ga-beacon.appspot.com/UA-75301203-2/thunderflurry/readme.md)](https://github.com/igrigorik/ga-beacon)
