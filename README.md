@@ -205,8 +205,8 @@ We would like to give a shout-out to **JetBrains** for providing [WebStorm](http
 
 ### Silver Sponsors
 
-[![Fluffy D. Bunny](https://thunderflurry.github.io/images/sponsors/fluffydbunny.jpg)](https://twitter.com/fluffydbunny)
-[![Bill McCarthy](https://thunderflurry.github.io/images/sponsors/billmccarthy.jpg)](https://twitter.com/Dig_Bill)
+[![Fluffy D. Bunny](https://thunderflurry.github.io/images/sponsors/fluffydbunny.png)](https://twitter.com/fluffydbunny)
+[![Bill McCarthy](https://thunderflurry.github.io/images/sponsors/billmccarthy.png)](https://twitter.com/Dig_Bill)
 
 
 [![Analytics](https://ga-beacon.appspot.com/UA-75301203-2/thunderflurry/readme.md)](https://github.com/igrigorik/ga-beacon)
