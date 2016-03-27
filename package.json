@@ -76,7 +76,7 @@
   },
   "devDependencies": {
     "assets-webpack-plugin": "^3.4.0",
-    "autoprefixer": "^6.3.4",
+    "autoprefixer": "^6.3.5",
     "babel-cli": "^6.6.5",
     "babel-eslint": "^5.0.0",
     "babel-jest": "^9.0.3",
