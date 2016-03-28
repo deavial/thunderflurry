@@ -79,7 +79,6 @@ $ npm run
 
 ThunderFlurry is licensed under the [Apache 2.0 license](./LICENSE.md). Copyright and related rights for sample code as defined in the project's LICENSE.md file are waived via [CC0](https://tldrlegal.com/l/cc0-1.0).
 
-
 ### Project Dashboard [![Build Status](https://travis-ci.org/ThunderFlurry/thunderflurry.svg)](https://travis-ci.org/ThunderFlurry/thunderflurry) [![Build status](https://ci.appveyor.com/api/projects/status/1qntrvsgmtls9sc8?svg=true)](https://ci.appveyor.com/project/victoriafrench/thunderflurry)
 
 You can see issues, pull requests, backlog items, etc. in the [OneGet Dashboard](https://waffle.io/thunderflurry/thunderflurry)
