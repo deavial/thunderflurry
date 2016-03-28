@@ -16,9 +16,9 @@
 import 'babel-polyfill';
 import ReactDOM from 'react-dom';
 import FastClick from 'fastclick';
-import Router from './routes';
-import Location from './core/Location';
-import { addEventListener, removeEventListener } from './core/DOMUtils';
+import Router from 'tenants/app/routes';
+import Location from 'tenants/app/core/Location';
+import { addEventListener, removeEventListener } from 'tenants/app/core/DOMUtils';
 
 let cssContainer = document.getElementById('css');
 const appContainer = document.getElementById('app');
@@ -111,7 +111,7 @@ function run() {
   });
 }
 
-// Run the application when both DOM is ready and page content is loaded
+// Run the app when both DOM is ready and page content is loaded
 if (['complete', 'loaded', 'interactive'].includes(document.readyState) && document.body) {
   run();
 } else {
