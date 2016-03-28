@@ -9,8 +9,11 @@ Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License. 
 
 Apache License
-Version 2.0, January 2004 |
-http://www.apache.org/licenses/ |
+
+Version 2.0, January 2004 
+
+http://www.apache.org/licenses/ 
+
 TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
 1. Definitions.
