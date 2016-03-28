@@ -77,7 +77,7 @@ $ npm run
 
 ### License
 
-ThunderFlurry is licensed under the [BSD-3 license](./LICENSE.md)
+ThunderFlurry is licensed under the [Apache 2.0 license](./LICENSE.md)
 
 
 ### Project Dashboard [![Build Status](https://travis-ci.org/ThunderFlurry/thunderflurry.svg)](https://travis-ci.org/ThunderFlurry/thunderflurry) [![Build status](https://ci.appveyor.com/api/projects/status/1qntrvsgmtls9sc8?svg=true)](https://ci.appveyor.com/project/victoriafrench/thunderflurry)
