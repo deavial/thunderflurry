@@ -7,6 +7,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Added
 - Bithound support
+- Apache 2.0 license
 
 ### Updated
 - Readme to explain that the project must be compiled with Node 5, it will execute in Node 4
@@ -38,6 +39,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - Travis compilation on Node 4
 - Appveyor compilation on Node 4
 - Debian builds
+- BSD-3 license
 
 ## [0.0.3-pre] - 2016-03-07
 
