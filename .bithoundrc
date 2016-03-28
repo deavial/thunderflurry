@@ -49,5 +49,9 @@
         "**/spec/**",
         "**/specs/**"
     ],
-    "critics": { "engine": "eslint" }
+    "critics": { 
+        "lint": {
+            "engine": "eslint" 
+        }
+    }
 }
