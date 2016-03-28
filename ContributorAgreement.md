@@ -1,4 +1,4 @@
-## Individual Contributor License Agreement v3.0
+## Individual Contributor License Agreement v3.1
 
 Thank you for Your interest in the ThunderFlurry Foundation. This document clarifies the terms under which You, the person listed below, may make Contributions — which may include without limitation, software, bug fixes, configuration changes, documentation, art work, creative design, video, or any other materials — to any of the projects owned or managed by the ThunderFlurry Foundation.
 
