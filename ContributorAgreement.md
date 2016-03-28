@@ -26,4 +26,4 @@ Copyright and related rights for sample code as defined in the project's LICENSE
 
 ###All Contributors Sign
 
-All Contributors to ThunderFlurry Foundation projects are required to [sign this Agreement](https://docs.google.com/forms/d/1bAbckbgmFi2QWMkUZyJf-wX48mWT1vGZLwDBdMF4xLU/viewform?c=0&w=1) before a pull-request will be accepted. The name and email address used to sign the CLA must match the name and email address in your git config. The author information for each commit in your Contributions will be cross-checked with this signature.
+All Contributors to ThunderFlurry Foundation projects are required to [sign this Agreement](https://cla-assistant.io/ThunderFlurry/thunderflurry) before a pull-request will be accepted. The name and email address used to sign the CLA must match the name and email address in your git config. The author information for each commit in your Contributions will be cross-checked with this signature.
