@@ -22,6 +22,9 @@ var EXPRESSIONS = {
 };
 
 function buildHostRegex(input) {
+    if (input instanceof RegExp) {
+        return input;
+    }
     if (typeof input !== 'string') {
         throw new Error('Invalid hostname provided. Must be a string or array of string: ' + input);
     }
