@@ -2,7 +2,7 @@
   "name": "thunderflurry-virtualhost",
   "title": "ThunderFlurry Virtual Host",
   "description": "Middleware for express or connect to create virtual, self-contained application nodes in ThunderFlurry.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "index.js",
   "homepage": "https://github.com/thunderflurry/thunderflurry-virtualhost",
   "author": {
